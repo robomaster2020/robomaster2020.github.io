@@ -1,5 +1,3 @@
-Teams include Mainland China, Hong Kong, Macau and Overseas and Joint Colleges
-
 参赛队伍一共分为内地队伍、港澳台及海外队伍和中外合作办学队伍三种类型。其中，中外合作办学队伍根据学校的地理位置决定其参赛属性及参赛流程。
 内地队伍|
 定义|在规定时间内通过报名审核及技术审核，符合相关参赛要求的中国内地高校参赛队伍。
