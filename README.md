@@ -23,7 +23,7 @@ Hi RoboMasters! You can get information about the upcoming competition from this
 # 参赛人员
 RoboMaster大赛鼓励倡导团队合作精神，为鼓励参赛成员积极承担队内重要角色，组委会将在分区赛及总决赛中评选优秀队长、优秀指导老师等奖项，表彰为RoboMaster赛事做出积极贡献的队员。参赛人员职位及职责请参阅下表：
 |职位|职位说明|人数|身份|职责
-|指导老师|+ 团队总负责人，+不可兼任
+|指导老师|+ 团队总负责人，+不可兼任|
 
 
 # Entry Qualification
