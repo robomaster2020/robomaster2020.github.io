@@ -1,7 +1,5 @@
 # RoboMaster 2020 Info & Docs
 
-Hi RoboMasters! You can get information about the upcoming competition from this website.
-
 # 参赛队伍
 参赛队伍一共分为内地队伍、港澳台及海外队伍和中外合作办学队伍三种类型。其中，中外合作办学队伍根据学校的地理位置决定其参赛属性及参赛流程。
 
